@@ -1,0 +1,19 @@
+{
+  "name": "express-static-routes",
+  "preferGlobal": false,
+  "version": "0.0.1",
+  "author": "Totolicious",
+  "description": "Provides static routes for express js",
+  "contributors": [ 
+    {
+      "name": "Totolicious"
+    } 
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/totolicious/express-static-routes"
+  },
+  "engines": {
+    "node": ">=0.10.24"
+  }
+}
